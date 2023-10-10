@@ -13,3 +13,7 @@ codeRain 是一个制造出代码雨效果的脚本程序，可以在网页的�
 ## randomStr
 
 randomStr 是一个用来产生随机十六进制颜色和随机字符串的脚本程序。
+
+## funcText
+
+funcText 是一个用来实现字体波动的脚本。

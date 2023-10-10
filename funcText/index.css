@@ -1,0 +1,14 @@
+:root {
+    background-color: violet;
+    color: aliceblue;
+    font-size: 3em;
+    font-family: 'Arial';
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}

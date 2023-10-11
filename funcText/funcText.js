@@ -1,7 +1,7 @@
 /**
  * 生成曲线点
  * @param {Function} curveFunc 曲线函数
- * @param {Array} range 取值范围
+ * @param {Array<Number>} range 取值范围
  * @param {Number} number 曲线的点
  * @param {Number} xLength x 的长度
  * @returns 
